@@ -14,7 +14,7 @@ orchestration layer for AI.
 ### A note on origins
 
 The Second Memo began as a fork of the excellent [supermemory](https://github.com/supermemoryai/supermemory)
-project (MIT Licensed). We're grateful to the Supermemory team for open-sourcing
+project (MIT Licensed). We're grateful to the The Second Memo team for open-sourcing
 their work. This repository has since been rebranded and is being actively
 customized to fit PayQIA's product direction, roadmap, and use cases.
 

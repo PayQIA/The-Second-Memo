@@ -129,7 +129,7 @@ User Speaks (Audio)
 UserTurnEnded Event {content: "user message", history: [...]}
     ↓
 ┌──────────────────────────────────────────────┐
-│   SUPERMEMORY CARTESIA AGENT (Wrapper)       │
+│   SECONDMEMO CARTESIA AGENT (Wrapper)       │
 │                                              │
 │  process(env, event):                        │
 │    1. Intercept UserTurnEnded                │

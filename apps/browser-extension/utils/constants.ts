@@ -73,7 +73,7 @@ export const DOMAINS = {
 	GROK: ["grok.com", "x.ai"],
 	GEMINI: ["gemini.google.com"],
 	T3: ["t3.chat"],
-	SUPERMEMORY: ["localhost", "the-second-memo.ai", "app.the-second-memo.ai"],
+	SECONDMEMO: ["localhost", "the-second-memo.ai", "app.the-second-memo.ai"],
 } as const
 
 /**
