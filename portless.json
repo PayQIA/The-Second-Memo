@@ -1,0 +1,15 @@
+{
+	"apps": {
+		"apps/web": { "name": "app.dev.the-second-memo", "script": "dev:app" },
+		"apps/mcp": { "name": "mcp.dev.the-second-memo", "script": "dev:app" },
+		"apps/docs": {
+			"name": "docs.dev.the-second-memo",
+			"script": "dev:app",
+			"appPort": 3003
+		},
+		"apps/memory-graph-playground": {
+			"name": "graph.dev.the-second-memo",
+			"script": "dev:app"
+		}
+	}
+}

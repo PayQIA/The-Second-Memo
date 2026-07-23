@@ -1,0 +1,5 @@
+the-second-memo
+openai
+anthropic
+httpx
+python-dotenv
